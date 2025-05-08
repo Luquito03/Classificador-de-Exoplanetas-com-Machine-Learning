@@ -64,7 +64,7 @@ Incluímos também visualizações de:
 ## 👨‍🚀 Autor
 
 - Nome: **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/Luquito03/)
-- LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/lucas-bernadino-a56b9b240/)
+- GitHub: [@Luquito03](https://github.com/Luquito03/)
+- LinkedIn: [Lucas Bernadino](https://www.linkedin.com/in/lucas-bernadino-a56b9b240/)
 
 
