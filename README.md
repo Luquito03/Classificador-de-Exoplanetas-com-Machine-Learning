@@ -40,8 +40,6 @@ cd nome-do-repo
 pip install pandas scikit-learn matplotlib seaborn
 ```
 
-3. Coloque o arquivo `cumulative.csv` na pasta raiz do projeto.
-
 4. Execute o script principal:
 
 ```bash
